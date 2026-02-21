@@ -1,0 +1,26 @@
+{
+  "name": "easy-copy-clipboard",
+  "version": "1.0.0",
+  "description": "Easy copy text to clipboard one-liner",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "easy",
+    "js",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/easy-copy-clipboard.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
